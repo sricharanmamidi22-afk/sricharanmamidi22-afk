@@ -1,10 +1,10 @@
-# Hi, I'm Sricharan ðŸ‘‹
+# Hi, I'm Sricharan
 
 <div align="center">
 
-### AI/ML Enthusiast â€¢ Computer Science Student â€¢ Builder of Real-World Projects
+### AI/ML Enthusiast â€¢ Computer Science Student â€¢ Building Real-World Intelligent Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Turning+ideas+into+AI-powered+products;Building+real-time+ML+and+data+systems;Learning%2C+building%2C+and+improving+every+day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=780&lines=Turning+ideas+into+AI-powered+projects;Building+real-time+ML+and+data+systems;Learning%2C+shipping%2C+and+growing+every+day" alt="Typing SVG" />
 
 </div>
 
@@ -12,72 +12,61 @@
 
 ## About Me
 
-- ðŸŽ“ Third-year Computer Science Engineering student at Centurion University.
-- ðŸ¤– Interested in AI, ML, real-time systems, and practical software projects.
-- ðŸ§  Currently building projects that combine intelligent models with usable products.
-- ðŸš€ Focused on learning by shipping projects and improving step by step.
-- ðŸ“ Based in Hyderabad, Telangana, India.
+- Third-year Computer Science Engineering student at Centurion University
+- Interested in AI, machine learning, real-time systems, and practical product development
+- Working on projects that combine intelligent models with usable applications
+- Focused on continuous learning, project building, and improving step by step
+- Based in Hyderabad, Telangana, India
 
-## What I'm Working On
+## Featured Work
 
 ### Enterprise-Grade Real-Time Skin Diagnostic System
-A project focused on AI-powered skin analysis with real-time diagnostic workflows, product thinking, and scalable system design.
+An AI-focused project centered on real-time skin analysis, diagnostic support workflows, and scalable product thinking.
 
 ### Live Data Streaming Platform
-A project exploring live data pipelines, streaming workflows, and real-time platform behavior for modern applications.
+A project exploring streaming pipelines, continuous data flow, and real-time system behavior for modern applications.
 
-> More projects will be added here as the portfolio grows.
+> More projects will be added as the portfolio grows.
 
-## Tech I Use
+## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,flask,fastapi,opencv,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,flask,fastapi,opencv,git,github,mysql" alt="Tech Stack" />
 </p>
 
-## Interests
+## Areas of Interest
 
 - Artificial Intelligence
 - Machine Learning
 - Computer Vision
 - Real-Time Data Systems
 - Software Development
-- Product-Oriented Project Building
+- Scalable Product Building
 
-## GitHub Stats
+## GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sricharanmamidi22-afk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sricharanmamidi22-afk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## Connect With Me
+## Connect
 
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your professional email]
-- Portfolio: [Add portfolio or personal website]
+- LinkedIn: [Mamidi Sri Charan](https://www.linkedin.com/in/mamidi-sri-charan-519202302?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- Email: [sricharanmamidi22@gmail.com](mailto:sricharanmamidi22@gmail.com)
 
-## Profile Notes
+## Future Additions
 
-```text
-Replace these placeholders before uploading:
-- YOUR_USERNAME
-- LinkedIn URL
-- professional email
-- portfolio link
-```
-
-## Optional Add-ons
-
-You can later extend this README with:
-- Featured project cards
-- Demo screenshots or GIFs
-- Certifications
+This README can later be expanded with:
+- Featured project cards with tech stack and results
+- Demo screenshots or GIF previews
 - Resume link
+- Certifications
 - Contribution graph section
-- Visitor badge
+- Portfolio website link
 
 ---
 
-### Quote I Like
+### Personal Line
 
-> Build. Learn. Improve. Repeat.
+> Build with curiosity. Improve with consistency.
