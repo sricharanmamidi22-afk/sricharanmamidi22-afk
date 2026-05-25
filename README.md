@@ -1,16 +1,19 @@
-## Hi there 👋
+# ⚡ SRICHARAN MAMIDI
 
-<!--
-**sricharanmamidi22-afk/sricharanmamidi22-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Computer_Vision_&_AI/ML-FF5722?style=for-the-badge&logoColor=white&logo=opencv" alt="Focus Badge"/>
+  <img src="https://img.shields.io/badge/Environment-Docker_&_WSGI-0db7ed?style=for-the-badge&logoColor=white&logo=docker" alt="Environment Badge"/>
+  <img src="https://img.shields.io/badge/Architecture-Full_Stack_Flask-ffffff?style=for-the-badge&logoColor=black&logo=flask" alt="Architecture Badge"/>
+</p>
 
-Here are some ideas to get you started:
+> **Full-Stack AI/ML Engineer** specializing in translating heavy algorithmic video processing matrices into sleek, premium-tier interactive cloud ecosystems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔮 Core System Metrics
+
+```text
+  ✨ Creating bugs since ..... 2024 // Resolved via containerized deployments
+  📚 Currently learning ...... Multi-spectral skin classification & edge-computing neural nets
+  🎯 Goals ................... Bridging deep feature matrices with luxury user interfaces
+  🎲 Fun fact ................ I containerize everything now because missing a local library path is a character arc
