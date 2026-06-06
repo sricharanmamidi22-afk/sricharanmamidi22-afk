@@ -54,15 +54,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sricharanmamidi22-afk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sricharanmamidi22-afk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 🤝 Connect
 
 - 👔 **LinkedIn:** [Mamidi Sri Charan](https://www.linkedin.com/in/mamidi-sri-charan-519202302)
